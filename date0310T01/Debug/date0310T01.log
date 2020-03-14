@@ -1,0 +1,5 @@
+﻿  date0310T01.cpp
+  date0310T01View.cpp
+c:\users\dell\source\repos\date0310t01\date0310t01\date0310t01view.cpp(64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  date0310T01.vcxproj -> C:\Users\dell\source\repos\date0310T01\Debug\date0310T01.exe
